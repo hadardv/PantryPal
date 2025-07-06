@@ -1,0 +1,7 @@
+{
+  "name": "PantryPalApp",
+  "displayName": "PantryPalApp",
+  "plugins": [
+    "react-native-nfc-manager"
+  ]
+}
