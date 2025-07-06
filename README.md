@@ -46,21 +46,7 @@
 ---
 # PantryPal Server
 
-PantryPal is a Smart Pantry Management System designed to help users track their kitchen inventory, receive expiration and low-stock alerts, and manage shopping lists. This repository contains the backend API, **built with Spring Boot and MongoDB.**
-
-## Table of Contents
-
-- [Technologies](#technologies)  
-- [Prerequisites](#prerequisites)  
-- [Installation](#installation)  
-- [Configuration](#configuration)  
-- [Database Setup](#database-setup)  
-- [Running the Server](#running-the-server)  
-- [API Endpoints](#api-endpoints)  
-- [Testing](#testing)  
-- [Docker (optional)](#docker-optional)  
-- [Contributing](#contributing)  
-- [License](#license)  
+PantryPal is a Smart Pantry Management System designed to help users track their kitchen inventory, receive expiration and low-stock alerts, and manage shopping lists. This repository contains the backend API, **built with Spring Boot and MongoDB.** 
 
 ## Technologies
 
